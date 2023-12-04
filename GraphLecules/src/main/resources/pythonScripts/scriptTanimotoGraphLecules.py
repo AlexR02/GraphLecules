@@ -16,9 +16,6 @@ import numpy as np
 # pandas
 import pandas as pd
 
-# networkx
-import networkx as nx
-
 # matplotlib
 import matplotlib as mpl
 import matplotlib.pyplot as plt
